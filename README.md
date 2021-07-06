@@ -1,4 +1,4 @@
-# 21-Days_Siddhika
+# 21-Days_SiddhikaRai
 Beginner Track
 
 Day 1:
