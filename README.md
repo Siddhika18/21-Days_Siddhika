@@ -14,3 +14,7 @@ Day 5 (11.07.2021): Panda contd
 Day 6 (12.07.2021): Panda 
 
 Day 7 (13.07.2021): did practise problems on panda
+
+Day 8 (14.07.2021): begun with Matplotlib 
+
+Day 9 (15.07.2021): Matplotlib continuation
