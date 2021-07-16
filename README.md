@@ -18,3 +18,5 @@ Day 7 (13.07.2021): did practise problems on panda
 Day 8 (14.07.2021): begun with Matplotlib 
 
 Day 9 (15.07.2021): Matplotlib continuation
+
+Day 10 (16.07.2021): Matplotlib continuation
