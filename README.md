@@ -20,3 +20,10 @@ Day 8 (14.07.2021): begun with Matplotlib
 Day 9 (15.07.2021): Matplotlib continuation
 
 Day 10 (16.07.2021): Matplotlib continuation
+
+Day 11 (17.07.2021): Matplotlib
+
+Day 12 (18.07.2021): Matplotlib 
+
+Day 13 (19.07.2021): revised python
+
